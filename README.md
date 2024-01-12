@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @pratheek-shett m
-- 👀 I’m interested in Technology and designing
-- 🌱 As a student i am currently studing my Bachelor degree in computer science and to increase my skill i am learning appdevelopment, webdevelopment, webdesigning, graphicdesign.
-- 💞️ I’m looking to collaborate on those students how are crazy to learn new things in technology
-- 📫 You can contact/mail me using pratheek5566@gmail.com
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+👋 Hi, I'm @pratheek-shett.
+👀 I'm passionate about technology and design.
+🌱 Currently pursuing my Master's degree in Computer Science, I am actively engaged in expanding my skills through learning app development, web development, web designing, and graphic design.
+💞️ I'm eager to collaborate with fellow students who share a passion for learning and exploring new aspects of technology.
+📫 You can reach me via email at pratheek5566@gmail.com.
+
 
 
 ## 🌐 Socials:
